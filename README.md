@@ -1,5 +1,8 @@
 # Klimper
 
+![image](https://github.com/user-attachments/assets/54f7100f-3be3-4dd4-a82e-f2daf2d78ed6)
+
+
 Generate Anki flashcards with music trivia from your Spotify playlists.
 
 For each song, Klimper fetches context from Wikipedia, generates grounded Q&A pairs via an LLM, and packages them into an Anki deck with album art and 30-second song previews.
